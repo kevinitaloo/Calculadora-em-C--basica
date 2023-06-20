@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-  std::cout << "Calculadora de média - Feita por Kevin.\n";
+  std::cout << "Calculadora - Feita por Kevin.\n";
   long double num1, num2, res;
   char cond;
 
